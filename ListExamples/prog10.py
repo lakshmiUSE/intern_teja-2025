@@ -8,5 +8,5 @@ for item in x:
     d[k] = v
 print(f"Output: {d}")
 
-# "By using built-in function"
+# "By using built-in function
 print(dict(x))
