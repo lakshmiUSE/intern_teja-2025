@@ -2,7 +2,7 @@
 # Solution-1
 x=[10,5,7,18,78]
 z=[]
-print(f"Input: {x}")
+#print(f"Input: {x}")
 # Traversing a list indexes from last to first
 # by using range function 
 for i in range(len(x)-1,-1,-1):

@@ -11,7 +11,7 @@ matrix = []
 for i in range(0, row_size):
     row = []
     for j in range(0, col_size):
-        #print(i, j)
+        print(i, j)
         s = input(f"Enter ({i} {j})th value: ")
         row.append(s)
     print(f"ROW {i} : {row}")

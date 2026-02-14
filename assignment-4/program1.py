@@ -18,5 +18,4 @@ if count > 0:
     print(f"{num} repeated {count} times")
 else:
     print("NO ELEMENT FOUND")
-s
-s
+
